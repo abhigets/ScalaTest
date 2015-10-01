@@ -1,0 +1,15 @@
+#Successful Tests
+#Fri May 29 20:24:00 IST 2015
+functional.journeys.SearchAllTextSpec=1429785630718
+functional.journeys.HomePageSpec=1429785527727
+functional.journeys.SearchByAdverseEventSpec=1429785525074
+functional.journeys.ProfileViewByStructureSearchSpec=1432911008814
+functional.journeys.SearchByIndicationSpec=1429785603551
+functional.journeys.SavedSearchAndAlertSpec=1429785710540
+functional.journeys.TrialProfileSpec=1429785569371
+functional.journeys.DrugSafetyProfileSpec=1429785614013
+functional.journeys.SearchByDrugClassSpec=1429785559780
+functional.journeys.FacetsSpec=1432911240191
+functional.journeys.SearchByMoaSpec=1429785516902
+functional.journeys.SearchByDrugNameSpec=1429785621397
+functional.journeys.AdvancedSearchSpec=1429785474166

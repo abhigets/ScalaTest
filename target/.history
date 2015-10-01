@@ -1,0 +1,4 @@
+test-only functional.journeys.SavedSearchAndAlertSpec
+test
+test-only functional.journeys.ProfileViewByStructureSearchSpec
+exit
