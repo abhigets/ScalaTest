@@ -13,6 +13,7 @@ trait AutomationTest
 
 trait MobileCorePages
   extends HomePage
+  with ListingPage
   with HeaderPage {}
 
 class Page extends FluentPage(Global.webDriver) with MustMatchers{

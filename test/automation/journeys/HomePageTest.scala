@@ -8,9 +8,12 @@ import automation.base.AutomationTest
 class HomePageTest extends AutomationTest{
 
   behavior of "Home page tests"
+  goToHomePage
+
 
   it should "Navigate to homepage" in {
     info("Navigate to homepage")
-    goTo(getUrl)
+      goToHomePage
+      getAllQuots()
   }
 }
